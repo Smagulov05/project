@@ -1,0 +1,72 @@
+header{
+	height: 68px;
+	width:1144 ;
+	background-color: #F0F1F2;
+	padding: 8px;
+}
+#inheader{
+	width: 1129px;
+	height: 48px;
+	margin: 0px 7.5px;
+	padding: 0px 16px;
+	display: flex;
+	flex-direction: row;
+	
+}
+#catalog{
+	width: 119px;
+	height: 40px;
+	background-color: #4682B4;
+	margin: 0px 24px 0px 0px;
+	padding: 8px 16px;
+	color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+}
+#catalog img{
+	height: 23px;
+	width:  23px;
+	margin-right: 5px;
+}
+#Input{
+	width: 614px;
+	height: 48px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+#Input input{
+	height: 40px;
+	width: 550px;
+}
+#Input img {
+	width: 20px;
+	height: 20px;
+}
+#animation{
+	height: 472px;
+	width: 1097px;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 20px;
+	border-radius: 15px;
+}
+#tab{
+	height: 50px;
+	width: 1880px;
+	margin: 0px 0px 16px;
+
+}
+.intub{
+	height: 50px;
+	width: 131px;
+	border-radius: 15px;
+	border: 1px solid black;
+	margin: 20px 16px 0px 0px;
+	padding: 12px 16px;
+	display: inline-block;
+}
+
